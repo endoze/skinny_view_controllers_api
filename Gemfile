@@ -13,6 +13,7 @@ group :development, :test do
   gem 'pry'
   gem 'pry-remote'
   gem 'pry-byebug'
+  gem 'foreman'
 end
 
 group :development do
